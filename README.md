@@ -13,7 +13,7 @@ class SoftwareEngineer:
         self.coding_lang = ["Python3", "C", "go", "Javascript", "php", "HTML","CSS"]
 
     def say_hi(self):
-        print("bio: I like play chess, undecided on cold weather, wait wrong site... I'm a software engineer.")
+        print("bio: I like to play chess, undecided on cold weather, wait wrong site... I'm a software engineer.")
         print("challenge: Currently exploring the territory of blockchain and ai.")
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
