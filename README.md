@@ -53,9 +53,9 @@ me.say_hi()
 <br />
 <br />
 <a href="https://gitstats.me/bharath-shanmugasundaram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAdityaSingh&count_private=true&theme=dark&title_color=11ab3a&hide=html,c%23" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-shanmugasundaram&count_private=true&theme=dark&title_color=11ab3a&hide=html,c%23" />
 </a>
 <a href="https://gitstats.me/bharath-shanmugasundaram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAdityaSingh&show_icons=true&count_private=true&theme=dark&title_color=11ab3a&line_height=40" alt="0xAdityaSingh's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharath-shanmugasundaram&show_icons=true&count_private=true&theme=dark&title_color=11ab3a&line_height=40" alt="0xAdityaSingh's github stats" />
 </a>
 <br />
