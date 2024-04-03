@@ -30,7 +30,7 @@ me.say_hi()
 - healthconnect.ai [link](https://github.com/0xAdityaSingh/healthconnect.ai)
 - A web app that lets us know if our image consists of any Personally Identifiable Information. [link](https://www.youtube.com/watch?v=leNQMczbnTs)
 - Automatic SRA Data Processing on IIITD HPC [link](https://sites.google.com/iiitd.ac.in/sraautomation/home)
-- AnimeOWL - Stream and Watch Sub and Dub Anime [link](https://0xAdityaSingh.github.io/AnimeOWL/)
+- AnimeOWL - Stream and Watch Sub and Dub Anime [link](https://bharath-shanmugasundaram.github.io/AnimeOWL/)
 
 ## Technology I am Familiar with
 
@@ -56,6 +56,6 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-shanmugasundaram&count_private=true&theme=dark&title_color=11ab3a&hide=html,c%23" />
 </a>
 <a href="https://gitstats.me/bharath-shanmugasundaram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharath-shanmugasundaram&show_icons=true&count_private=true&theme=dark&title_color=11ab3a&line_height=40" alt="0xAdityaSingh's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharath-shanmugasundaram&show_icons=true&count_private=true&theme=dark&title_color=11ab3a&line_height=40" alt="bharath-shanmugasundaram's github stats" />
 </a>
 <br />
