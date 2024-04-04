@@ -27,10 +27,10 @@ me.say_hi()
 ## My Recent work
 
 - A Blockchain based healthcare data-sharing platform [link](https://github.com/bharath-shanmugasundaram/Hyperledeger-Fabric-Ryzaq)
-- Face Recognition Attendance System with Web Interface [link]((https://github.com/bharath-shanmugasundaram/Face-Recognition-Attendance-System-with-Web-Interface))
-- GazePoint Control. [link]((https://github.com/bharath-shanmugasundaram/GazePoint-Control))
-- Hackerrank Problems. [link]((https://github.com/bharath-shanmugasundaram/Python-Hackerrank-problem))
-- Portfolio Web Work [link]((https://github.com/bharath-shanmugasundaram/Web-projects))
+- Face Recognition Attendance System with Web Interface [link](https://github.com/bharath-shanmugasundaram/Face-Recognition-Attendance-System-with-Web-Interface)
+- GazePoint Control. [link](https://github.com/bharath-shanmugasundaram/GazePoint-Control)
+- Hackerrank Problems. [link](https://github.com/bharath-shanmugasundaram/Python-Hackerrank-problem)
+- Portfolio Web Work [link](https://github.com/bharath-shanmugasundaram/Web-projects)
 
 ## Technology I am Familiar with
 
