@@ -26,11 +26,11 @@ me.say_hi()
 
 ## My Recent work
 
-- A Blockchain based healthcare data-sharing platform [link](https://github.com/0xAdityaSingh/EHR-Hyperledger)
-- healthconnect.ai [link](https://github.com/0xAdityaSingh/healthconnect.ai)
-- A web app that lets us know if our image consists of any Personally Identifiable Information. [link](https://www.youtube.com/watch?v=leNQMczbnTs)
-- Automatic SRA Data Processing on IIITD HPC [link](https://sites.google.com/iiitd.ac.in/sraautomation/home)
-- AnimeOWL - Stream and Watch Sub and Dub Anime [link](https://bharath-shanmugasundaram.github.io/AnimeOWL/)
+- A Blockchain based healthcare data-sharing platform [link](https://github.com/bharath-shanmugasundaram/Hyperledeger-Fabric-Ryzaq)
+- Face Recognition Attendance System with Web Interface [link]((https://github.com/bharath-shanmugasundaram/Face-Recognition-Attendance-System-with-Web-Interface))
+- GazePoint Control. [link]((https://github.com/bharath-shanmugasundaram/GazePoint-Control))
+- Hackerrank Problems. [link]((https://github.com/bharath-shanmugasundaram/Python-Hackerrank-problem))
+- Portfolio Web Work [link]((https://github.com/bharath-shanmugasundaram/Web-projects))
 
 ## Technology I am Familiar with
 
