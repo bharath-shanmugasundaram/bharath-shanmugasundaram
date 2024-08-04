@@ -9,12 +9,12 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Bharath shanmugasundaram"
-        self.role = "Software Engineer"
-        self.coding_lang = ["Python3", "C", "go", "Javascript", "php", "HTML","CSS"]
+        self.role = "Computer Vision Engineer"
+        self.coding_lang = ["Python3", "C", "go", "Javascript", "HTML","CSS"]
 
     def say_hi(self):
-        print("bio: I like to play chess, undecided on cold weather, wait wrong site... I'm a software engineer.")
-        print("challenge: Currently exploring the territory of blockchain and ai.")
+        print("bio: I like to play chess, undecided on cold weather, wait wrong site... I'm a Computer Vision engineer.")
+        print("challenge: Currently exploring the territory of Autonoums vehicle System and ai.")
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
