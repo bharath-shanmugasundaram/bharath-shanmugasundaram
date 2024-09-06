@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SCMS<br>🤝 I’m looking for Dev colleague <br>🌱 I’m currently learning SW Design and Architecture <br>⚡ Reach Me at https://wa.me/9487127290 or +91 9487127290
+🔭 I’m currently working on SCMS<br>🤝 I’m looking for Dev colleague <br>🌱 I’m currently learning ML and System Architecture <br>⚡ Reach Me at https://wa.me/9487127290 or +91 9487127290
 
 
 ## 🌐 Socials:
