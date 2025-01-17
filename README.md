@@ -9,7 +9,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Bharath shanmugasundaram"
-        self.role = "Computer Vision Engineer"
+        self.role = "SWE"
         self.coding_lang = ["Python3", "C", "go", "Javascript", "HTML","CSS"]
 
     def say_hi(self):
